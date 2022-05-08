@@ -1,4 +1,4 @@
-# README-Generator
+# Employee-Tracker
   
   ### The goal for this project is to build a command-line application from scratch to maange a company's employee database, using Node.js, Inquirer, and MySQL.
 
